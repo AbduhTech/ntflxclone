@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/netflxclone/static/css/main.073c9b0a.css",
+    "main.js": "/netflxclone/static/js/main.9ae1ce4d.js",
+    "static/js/787.8a8a8cc9.chunk.js": "/netflxclone/static/js/787.8a8a8cc9.chunk.js",
+    "static/media/logo.svg": "/netflxclone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/netflxclone/index.html",
+    "main.073c9b0a.css.map": "/netflxclone/static/css/main.073c9b0a.css.map",
+    "main.9ae1ce4d.js.map": "/netflxclone/static/js/main.9ae1ce4d.js.map",
+    "787.8a8a8cc9.chunk.js.map": "/netflxclone/static/js/787.8a8a8cc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9ae1ce4d.js"
+  ]
+}
